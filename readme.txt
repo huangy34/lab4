@@ -10,3 +10,5 @@ How can I continue the program with certain methods?
 -Integer reverse methods
 what does the test plan looks like?
 -Test plans look like sets of numbers.
+What can I do to add colors on my output?
+What type of methods do I need?
