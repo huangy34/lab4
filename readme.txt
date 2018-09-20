@@ -11,4 +11,6 @@ How can I continue the program with certain methods?
 what does the test plan looks like?
 -Test plans look like sets of numbers.
 What can I do to add colors on my output?
+-look up the API online
 What type of methods do I need?
+-methods are given
